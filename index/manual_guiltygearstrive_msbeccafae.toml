@@ -1,0 +1,6 @@
+name = "Manual_guiltygearstrive_msbeccafae"
+display_name = "Guilty Gear Strive: Arcade"
+home = "https://discord.com/channels/1097532591650910289/1367681523259805696/1491539954176757792"
+
+[versions]
+"0.0.1" = { local = "../apworlds/manual_guiltygearstrive_msbeccafae-0.0.1.apworld" }
